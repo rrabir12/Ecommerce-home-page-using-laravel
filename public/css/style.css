@@ -52,7 +52,7 @@ p{
   position: relative;
 }
 .navbar .container .nav .nav-item .nav-link{
-    color: rgb(124, 124, 124);
+    color: black;
     padding: 0 15px;
 }
 .navbar .container .nav .nav-item .nav-link:hover
